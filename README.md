@@ -21,7 +21,7 @@
 
 <ol>
   <li>Clone the repository to your local machine:
-    <pre><code>git clone https://github.com/your_username/your_repository.git</code></pre>
+    <pre><code>git clone https://github.com/Feedback02/NLP_EventDetection.git</code></pre>
   </li>
   <li>Open and explore the Jupyter notebooks (<code>common-baseline.ipynb</code> and <code>ModelTraining.ipynb</code>) using Jupyter Notebook or a compatible environment.</li>
   <li>Follow the instructions within the notebooks to understand the approaches and methodologies used for solving the NLP problem.</li>
