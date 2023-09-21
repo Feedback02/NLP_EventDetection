@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>NLP Project Repository</title>
-</head>
 <body>
 
 <h1>NLP Project Repository</h1>
 
-<p>This repository contains an NLP project focused on solving a specific problem. The project involves implementing two approaches to address the problem: one based on a common baseline approach (<code>common-baseline.ipynb</code>) and the other utilizing a model-based solution (<code>ModelTraining.ipynb</code>).</p>
+<p>This repository contains an NLP project focused on solving the Event Detection Problem. The project involves implementing two approaches to address the problem: one based on a common baseline approach (<code>common-baseline.ipynb</code>) and the other utilizing a model-based solution (<code>ModelTraining.ipynb</code>).</p>
 
 <h2>Project Files</h2>
 
