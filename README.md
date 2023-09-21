@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>NLP Project Repository</h1>
+<h1>NLP Event Detection Repository</h1>
 
 <p>This repository contains an NLP project focused on solving the Event Detection Problem. The project involves implementing two approaches to address the problem: one based on a common baseline approach (<code>common-baseline.ipynb</code>) and the other utilizing a model-based solution (<code>ModelTraining.ipynb</code>).</p>
 
